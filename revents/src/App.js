@@ -16,7 +16,7 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          Learn React
+          React is Hot! No Reload! Testing Commit
         </a>
       </header>
     </div>
